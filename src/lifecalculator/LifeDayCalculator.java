@@ -20,6 +20,7 @@ public class LifeDayCalculator {
             of = of.plusDays(1);
             counter++;
         }
+
         System.out.println("You have lived "+counter+" days.");
 
     }
